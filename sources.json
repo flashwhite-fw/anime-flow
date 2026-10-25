@@ -1,14 +1,14 @@
-   {
-     "SOURCES": {
-       "150672": [
-         "https://drive.google.com/file/d/1EGI5rCwdR7UsqmvrsL7iJbDNTtd86hIa/preview"
-       ],
-         "1735": [
-           "https://drive.google.com/file/d/1mHuCv0gwcpNSH7KUbjF2BlS16bwfyIrz/preview"
-           "https://drive.google.com/file/d/1D3gSPC-QA3JGK8WJImiaPnWL6UXwRcrd/preview"
-         ]
-     },
-     "NEWS": [
-       ["Bienvenue sur AnimeFlow", "24 octobre 2026", "Ce texte vient de sources.json."]
-     ]
-   }
+{
+  "SOURCES": {
+    "150672": [
+      "https://drive.google.com/file/d/1EGI5rCwdR7UsqmvrsL7iJbDNTtd86hIa/preview"
+    ],
+    "1735": [
+      "https://drive.google.com/file/d/1mHuCv0gwcpNSH7KUbjF2BlS16bwfyIrz/preview",
+      "https://drive.google.com/file/d/1D3gSPC-QA3JGK8WJImiaPnWL6UXwRcrd/preview"
+    ]
+  },
+  "NEWS": [
+    ["Bienvenue sur AnimeFlow", "24 octobre 2026", "Ce texte vient de sources.json."]
+  ]
+}
